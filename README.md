@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./"Banner github.png" width="100%" />
+<img src="./"banner.png" width="100%" />
 
 # Leonardo Romero
 
