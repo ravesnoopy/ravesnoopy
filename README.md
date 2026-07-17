@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Leonardo Romero Banner" width="100%">
+  <img src="banner.png" width="100%">
 </p>
-# Leonardo Romero
 
 ### SOC Analyst • Blue Team • Incident Response • Digital Forensics
 
