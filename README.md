@@ -1,141 +1,158 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+<div align="center">
 
-### SOC Analyst • Blue Team • Incident Response • Digital Forensics
+<img src="assets/banner.png" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Protect+%7C+Investigate+%7C+Automate;Building+my+career+in+Cybersecurity.;Always+Learning.+Always+Improving." />
+<br>
+
+# Leonardo Romero
+
+### Cybersecurity • Blue Team • Detection Engineering • Incident Response
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=2200&color=00D9FF&center=true&vCenter=true&random=false&width=850&lines=Building+real-world+SOC+projects.;Blue+Team+%7C+Threat+Hunting+%7C+Digital+Forensics.;Learning+every+day.+Documenting+everything.;Future+SOC+Analyst." />
+
+<img src="https://komarev.com/ghpvc/?username=ravesnoopy&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/ravesnoopy?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/ravesnoopy?style=for-the-badge">
 
 </div>
 
 ---
 
-## Who Am I
+# About Me
 
-Cybersecurity student focused on **Security Operations**, **Blue Team**, **Threat Detection**, and **Incident Response**.
-
-I enjoy building realistic investigations, documenting every finding, and transforming hands-on labs into professional case studies.
-
-My objective is to become a SOC Analyst capable of detecting, investigating and responding to real-world attacks.
-
----
-
-## Current Mission
-
-```text
-Learning > Practicing > Documenting > Improving > Repeating
+```yaml
+Name: Leonardo Romero
+Location: Mexico
+Role: Cybersecurity Student
+Goal: SOC Analyst
+Focus:
+  - Blue Team
+  - Detection Engineering
+  - Threat Hunting
+  - DFIR
 ```
 
-Current focus:
-
-- Security Operations Center (SOC)
-- Incident Response
-- Digital Forensics
-- Threat Hunting
-- Detection Engineering
-- Windows Internals
-- Linux Administration
-- Network Security
-- SIEM Engineering
+I enjoy solving security challenges, documenting investigations, and transforming labs into professional case studies.
 
 ---
 
-## Technical Stack
+# Current Focus
+
+| 🔥 | Working On |
+|:--|:------------|
+| 🛡️ | Security Operations Center |
+| 🔍 | Threat Hunting |
+| 💻 | Windows Internals |
+| 📊 | Elastic Stack |
+| 🐧 | Linux |
+| ⚡ | Detection Engineering |
+| 📄 | Incident Reports |
+| 🤖 | Python Automation |
+
+---
+
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,vscode,kali" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,vscode,kali"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?logo=elastic">
 
-<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana"/>
+<img src="https://img.shields.io/badge/Kibana-F04E98?logo=kibana">
 
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sysmon-0078D4">
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-EA4335?style=flat-square"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-red">
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Wireshark-blue">
 
-<img src="https://img.shields.io/badge/Digital_Forensics-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/DFIR-black">
 
 </p>
 
 ---
 
-## Featured Investigations
+# Featured Projects
 
-| Investigation | Skills |
-|---------------|--------|
-| QuantiaPay Incident Response | DFIR • Timeline Analysis • Evidence Collection |
-| Windows Event Log Analysis | Sysmon • Event Viewer • IOC Detection |
-| Threat Hunting Lab | MITRE ATT&CK • Sigma • Detection Logic |
-| Network Investigation | Wireshark • PCAP Analysis |
-| Linux Hardening | SSH • Permissions • Services |
+| Project | Description |
+|----------|-------------|
+| 🔥 QuantiaPay Incident Response | Complete DFIR Investigation |
+| 🛡️ SOC Investigation | IOC Analysis |
+| 📊 Elastic Detection Lab | Detection Engineering |
+| 💻 Windows Event Logs | Sysmon Investigation |
+| 🌐 Network Analysis | Wireshark |
 
 ---
 
-## GitHub Analytics
+# Certifications
+
+🟨 TripleTen Cybersecurity
+
+🟨 CompTIA Security+ *(In Progress)*
+
+🟨 Linux Fundamentals
+
+🟨 TryHackMe
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravesnoopy&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravesnoopy&show_icons=true&theme=github_dark&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravesnoopy&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravesnoopy&layout=compact&theme=github_dark&hide_border=true">
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ravesnoopy&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ravesnoopy&theme=github-dark-blue&hide_border=true">
 
 </p>
 
 ---
 
-## Cybersecurity Roadmap
+# Activity Graph
 
-```text
-[x] Networking Fundamentals
+<p align="center">
 
-[x] Linux
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravesnoopy&theme=github-dark&hide_border=true">
 
-[x] Windows
-
-[x] Digital Forensics
-
-[x] Incident Response
-
-[ ] Detection Engineering
-
-[ ] Malware Analysis
-
-[ ] Threat Intelligence
-
-[ ] Cloud Security
-
-[ ] SOC Analyst L1
-```
+</p>
 
 ---
 
-## Latest Projects
+# Current Goals
 
-<!-- BLOG-POST-LIST:START -->
-Coming soon...
-<!-- BLOG-POST-LIST:END -->
+- [x] Linux Fundamentals
+- [x] Networking
+- [x] Windows Logs
+- [x] Incident Response
+- [x] Digital Forensics
+- [ ] Detection Engineering
+- [ ] Malware Analysis
+- [ ] Cloud Security
+- [ ] Security+
 
 ---
 
-## Connect
+# Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/leonardo-romero-garcia-086798417">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+
 </a>
 
 </p>
@@ -144,6 +161,8 @@ Coming soon...
 
 <div align="center">
 
-> "Protect. Learn. Build. Improve. Repeat."
+## Protect • Detect • Investigate • Improve
+
+*"The best security professionals never stop learning."*
 
 </div>
