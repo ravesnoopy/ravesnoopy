@@ -68,8 +68,50 @@ SOC Correlation Investigation.
 </td>
 
 </tr>
-</table>
 
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response/main/images/banner.png">
+</a>
+
+### Liberty & Co. Enterprise Assessment
+
+Enterprise security assessment and incident response.
+
+**Skills**
+
+- Security Assessment
+- Incident Response
+- Risk Analysis
+- MITRE ATT&CK
+- Technical Reporting
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/1280x640/111827/FFFFFF?text=COMING+SOON">
+
+### Coming Soon
+
+A new enterprise cybersecurity investigation is currently in development.
+
+**Planned Skills**
+
+- Threat Hunting
+- DFIR
+- Detection Engineering
+- Incident Response
+- Threat Intelligence
+
+</td>
+
+</tr>
+
+</table>
 ## Current Mission
 
 ```text
