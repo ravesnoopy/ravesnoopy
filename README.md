@@ -20,6 +20,56 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 
 ---
 
+## Featured Investigations
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/ravesnoopy/QuantiaPay-Incident-Response">
+<img src="https://raw.githubusercontent.com/ravesnoopy/QuantiaPay-Incident-Response/main/images/banner.png">
+
+</a>
+
+### QuantiaPay Incident Response
+
+Cloud CI/CD compromise investigation.
+
+**Skills**
+
+- Incident Response
+- DFIR
+- MITRE ATT&CK
+- IOC Analysis
+- Timeline Analysis
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/ravesnoopy/SOC-Investigation-NorthBay">
+<img src="https://raw.githubusercontent.com/ravesnoopy/SOC-Investigation-NorthBay/main/images/banner.png">
+
+</a>
+
+### NorthBay Logistics Investigation
+
+SOC Correlation Investigation.
+
+**Skills**
+
+- Alert Correlation
+- MITRE ATT&CK
+- Executive Reporting
+- IOC Analysis
+- Threat Investigation
+
+</td>
+
+</tr>
+</table>
+
 ## Current Mission
 
 ```text
@@ -120,13 +170,7 @@ Current focus:
 [ ] SOC Analyst L1
 ```
 
----
 
-## Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -135,7 +179,11 @@ Coming soon...
 <p align="left">
 
 <a href="https://www.linkedin.com/in/leonardo-romero-garcia-086798417">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/leonardoyyy">
+<img src="https://img.shields.io/badge/Discord-leonardoyyy-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
@@ -144,5 +192,4 @@ Coming soon...
 
 <div align="center">
 
-> "Protect. Learn. Build. Improve. Repeat."
-
+> *"Protect. Learn. Build. Improve. Repeat."*
