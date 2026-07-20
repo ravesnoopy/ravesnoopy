@@ -93,25 +93,32 @@ Enterprise security assessment and incident response.
 
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/1280x640/111827/FFFFFF?text=COMING+SOON">
+<a href="https://github.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation">
+<img src="https://raw.githubusercontent.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation/main/IMAGES/banner.png">
+</a>
 
-### Coming Soon
+### NorthBridge Manufacturing Investigation
 
-A new enterprise cybersecurity investigation is currently in development.
+Lateral movement investigation across an enterprise Windows environment.
 
-**Planned Skills**
+**Skills**
 
-- Threat Hunting
-- DFIR
-- Detection Engineering
+- Lateral Movement Analysis
 - Incident Response
-- Threat Intelligence
+- Windows Event Logs
+- MITRE ATT&CK
+- Threat Investigation
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
 </tr>
 
 </table>
+
 ## Current Mission
 
 ```text
