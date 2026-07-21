@@ -21,85 +21,79 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 ---
 
 ## Featured Investigations
-
+ 
 <table>
 <tr>
-
 <td width="50%">
-
 <a href="https://github.com/ravesnoopy/QuantiaPay-Incident-Response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/QuantiaPay-Incident-Response/main/images/banner.png">
-
 </a>
-
 ### QuantiaPay Incident Response
-
+ 
 Cloud CI/CD compromise investigation.
-
+ 
 **Skills**
-
+ 
 - Incident Response
 - DFIR
 - MITRE ATT&CK
 - IOC Analysis
 - Timeline Analysis
-
 </td>
-
 <td width="50%">
-
 <a href="https://github.com/ravesnoopy/SOC-Investigation-NorthBay">
 <img src="https://raw.githubusercontent.com/ravesnoopy/SOC-Investigation-NorthBay/main/images/banner.png">
-
 </a>
-
 ### NorthBay Logistics Investigation
-
+ 
 SOC Correlation Investigation.
-
+ 
 **Skills**
-
+ 
 - Alert Correlation
 - MITRE ATT&CK
 - Executive Reporting
 - IOC Analysis
 - Threat Investigation
-
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
-
 <a href="https://github.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response/main/images/banner.png">
 </a>
-
 ### Liberty & Co. Enterprise Assessment
-
+ 
 Enterprise security assessment and incident response.
-
+ 
 **Skills**
-
+ 
 - Security Assessment
 - Incident Response
 - Risk Analysis
 - MITRE ATT&CK
 - Technical Reporting
-
 </td>
-
 <td width="50%" valign="top">
-
 <a href="https://github.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation">
 <img src="https://raw.githubusercontent.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation/main/IMAGES/banner.png">
 </a>
-
 ### NorthBridge Manufacturing Investigation
-
+ 
 Lateral movement investigation across an enterprise Windows environment.
+ 
+**Skills**
+ 
+- Lateral Movement Analysis
+- Incident Response
+- Windows Event Logs
+- MITRE ATT&CK
+- Threat Investigation
+</td>
+</tr>
+</table>
+
+---
 
 **Skills**
 
