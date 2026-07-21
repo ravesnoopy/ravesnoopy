@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-### SOC Analyst • Blue Team • Incident Response • Digital Forensics
+<h3 align="center">SOC Analyst • Blue Team • Incident Response • Digital Forensics</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Protect+%7C+Investigate+%7C+Automate;Building+my+career+in+Cybersecurity.;Always+Learning.+Always+Improving." />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Who Am I
+<h2 align="center">Who Am I</h2>
 
 Cybersecurity student focused on **Security Operations**, **Blue Team**, **Threat Detection**, and **Incident Response**.
 
@@ -20,7 +20,21 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 
 ---
 
-## Featured Investigations
+<h2 align="center">Blue Team Student Handbook</h2>
+
+<p align="center">
+<a href="https://github.com/ravesnoopy/Blue-Team-Student-Handbook">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Blue-Team-Student-Handbook/main/Images/handbook.png">
+</a>
+</p>
+
+<p align="center">
+🛡️ <b>SOC Analyst Playbooks</b> • 🔍 <b>Investigation Guides</b> • 📋 <b>Case Documentation</b> • 🎓 <b>Student Resources</b>
+</p>
+
+---
+
+<h2 align="center">Featured Investigations</h2>
  
 <table>
 <tr>
@@ -95,25 +109,7 @@ Lateral movement investigation across an enterprise Windows environment.
 
 ---
 
-**Skills**
-
-- Lateral Movement Analysis
-- Incident Response
-- Windows Event Logs
-- MITRE ATT&CK
-- Threat Investigation
-
-</td>
-
-<td width="50%" valign="top">
-
-</td>
-
-</tr>
-
-</table>
-
-## Current Mission
+<h2 align="center">Current Mission</h2>
 
 ```text
 Learning > Practicing > Documenting > Improving > Repeating
@@ -133,7 +129,7 @@ Current focus:
 
 ---
 
-## Technical Stack
+<h2 align="center">Technical Stack</h2>
 
 <p align="center">
 
@@ -159,7 +155,7 @@ Current focus:
 
 ---
 
-## Featured Investigations
+<h2 align="center">Featured Investigations</h2>
 
 | Investigation | Skills |
 |---------------|--------|
@@ -171,7 +167,7 @@ Current focus:
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
 
@@ -189,7 +185,7 @@ Current focus:
 
 ---
 
-## Cybersecurity Roadmap
+<h2 align="center">Cybersecurity Roadmap</h2>
 
 ```text
 [x] Networking Fundamentals
@@ -213,11 +209,9 @@ Current focus:
 [ ] SOC Analyst L1
 ```
 
-
-
 ---
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <p align="left">
 
@@ -230,9 +224,3 @@ Current focus:
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-> *"Protect. Learn. Build. Improve. Repeat."*
