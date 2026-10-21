@@ -18,8 +18,6 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 
 <br>
 
----
-
 <h4 align="center">🎓 Certifications</h4>
 
 ---
