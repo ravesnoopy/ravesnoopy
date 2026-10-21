@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
@@ -27,14 +26,14 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-<img src="Images/aws-incident-response-cloud.png" height="140" alt="AWS Incident Response Cloud Micro-Credential">
+<td align="center" valign="middle" width="33%">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Glosario-De-Ciberseguridad-/main/imagenes/aws1.png" height="150" alt="AWS Incident Response Cloud Micro-Credential">
 </td>
-<td align="center" width="33%">
-<img src="Images/security-plus.png" height="140" alt="CompTIA Security+">
+<td align="center" valign="middle" width="33%">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Glosario-De-Ciberseguridad-/main/imagenes/security1.png" height="150" alt="CompTIA Security+">
 </td>
-<td align="center" width="33%">
-<img src="Images/tripleten.png" height="140" alt="TripleTen">
+<td align="center" valign="middle" width="33%">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Glosario-De-Ciberseguridad-/main/imagenes/Triple1.PNG" height="150" alt="TripleTen">
 </td>
 </tr>
 </table>
@@ -85,7 +84,7 @@ AWS incident response and detection labs with a ransomware case study.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ravesnoopy/-Phishing-How-They-Attack-Us-and-How-We-Defend-Ourselves-">
-<img src="https://raw.githubusercontent.com/ravesnoopy/-Phishing-How-They-Attack-Us-and-How-We-Defend-Ourselves-/main/images/Phishing_%20Ciberoc%C3%A9ano%20en%20Alerta%20largo.png">
+<img src="https://raw.githubusercontent.com/ravesnoopy/Glosario-De-Ciberseguridad-/main/imagenes/phishing1.png">
 </a>
 <h3>Phishing: How They Attack Us and How We Defend Ourselves</h3>
 
