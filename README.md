@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
@@ -5,8 +6,6 @@
 <h3 align="center">SOC Analyst • Blue Team • Incident Response • Digital Forensics</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Protect+%7C+Investigate+%7C+Automate;Building+my+career+in+Cybersecurity.;Always+Learning.+Always+Improving." />
-
-</div>
 
 ---
 
@@ -17,6 +16,28 @@ Cybersecurity student focused on **Security Operations**, **Blue Team**, **Threa
 I enjoy building realistic investigations, documenting every finding, and transforming hands-on labs into professional case studies.
 
 My objective is to become a SOC Analyst capable of detecting, investigating and responding to real-world attacks.
+
+<br>
+
+---
+
+<h4 align="center">🎓 Certifications</h4>
+
+---
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="Images/aws-incident-response-cloud.png" height="140" alt="AWS Incident Response Cloud Micro-Credential">
+</td>
+<td align="center" width="33%">
+<img src="Images/security-plus.png" height="140" alt="CompTIA Security+">
+</td>
+<td align="center" width="33%">
+<img src="Images/tripleten.png" height="140" alt="TripleTen">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,35 +56,77 @@ My objective is to become a SOC Analyst capable of detecting, investigating and 
 ---
 
 <h2 align="center">Featured Investigations</h2>
- 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%A7_FINAL_PROJECT-TripleTen-00D4FF?style=for-the-badge&labelColor=111111" />
+</p>
+
+<h3 align="center">Final Project TripleTen — SOON...</h3>
+
+<p align="center"><i>Capstone project currently in progress. It will live here and stay in the project list once published.</i></p>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+<a href="https://github.com/ravesnoopy/cloud-incident-response">
+<img src="https://raw.githubusercontent.com/ravesnoopy/cloud-incident-response/main/images/image1.png">
+</a>
+<h3>Cloud Incident Response</h3>
+
+AWS incident response and detection labs with a ransomware case study.
+
+<b>Skills</b>
+
+- AWS Incident Response
+- CloudTrail & Config
+- IAM / S3 / RDS / EC2 (IMDS)
+- Detection Engineering
+- Ransomware Case Study
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ravesnoopy/-Phishing-How-They-Attack-Us-and-How-We-Defend-Ourselves-">
+<img src="https://raw.githubusercontent.com/ravesnoopy/-Phishing-How-They-Attack-Us-and-How-We-Defend-Ourselves-/main/images/Phishing_%20Ciberoc%C3%A9ano%20en%20Alerta%20largo.png">
+</a>
+<h3>Phishing: How They Attack Us and How We Defend Ourselves</h3>
+
+Awareness campaign and hands-on phishing analysis project.
+
+<b>Skills</b>
+
+- Phishing Analysis
+- Email Investigation
+- Security Awareness
+- IOC Analysis
+- Defensive Strategies
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/ravesnoopy/QuantiaPay-Incident-Response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/QuantiaPay-Incident-Response/main/images/banner.png">
 </a>
-### QuantiaPay Incident Response
- 
+<h3>QuantiaPay Incident Response</h3>
+
 Cloud CI/CD compromise investigation.
- 
-**Skills**
- 
+
+<b>Skills</b>
+
 - Incident Response
 - DFIR
 - MITRE ATT&CK
 - IOC Analysis
 - Timeline Analysis
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/ravesnoopy/SOC-Investigation-NorthBay">
 <img src="https://raw.githubusercontent.com/ravesnoopy/SOC-Investigation-NorthBay/main/images/banner.png">
 </a>
-### NorthBay Logistics Investigation
- 
+<h3>NorthBay Logistics Investigation</h3>
+
 SOC Correlation Investigation.
- 
-**Skills**
- 
+
+<b>Skills</b>
+
 - Alert Correlation
 - MITRE ATT&CK
 - Executive Reporting
@@ -76,12 +139,12 @@ SOC Correlation Investigation.
 <a href="https://github.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/Liberty-Co.-Enterprise-Security-Assessment-Incident-Response/main/images/banner.png">
 </a>
-### Liberty & Co. Enterprise Assessment
- 
+<h3>Liberty & Co. Enterprise Assessment</h3>
+
 Enterprise security assessment and incident response.
- 
-**Skills**
- 
+
+<b>Skills</b>
+
 - Security Assessment
 - Incident Response
 - Risk Analysis
@@ -92,12 +155,12 @@ Enterprise security assessment and incident response.
 <a href="https://github.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation">
 <img src="https://raw.githubusercontent.com/ravesnoopy/NorthBridge-Manufacturing-Lateral-Movement-Investigation/main/IMAGES/banner.png">
 </a>
-### NorthBridge Manufacturing Investigation
- 
+<h3>NorthBridge Manufacturing Investigation</h3>
+
 Lateral movement investigation across an enterprise Windows environment.
- 
-**Skills**
- 
+
+<b>Skills</b>
+
 - Lateral Movement Analysis
 - Incident Response
 - Windows Event Logs
@@ -215,7 +278,7 @@ Current focus:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/leonardo-romero-garcia-086798417">
+<a href="https://www.linkedin.com/in/leoromerog/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
