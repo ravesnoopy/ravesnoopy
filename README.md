@@ -18,12 +18,12 @@ My goal is to become a SOC Analyst capable of detecting, investigating, and resp
 
 ---
 
-<h2 align="center">🏆 Top Projects</h2>
+<h2 align="center">🏆 Top Projects 🏆</h2>
 
 <table align="center">
 <tr>
 <td width="33%" valign="top" align="center">
-<h3>1st Place</h3>
+<h3></h3>
 <a href="https://github.com/ravesnoopy/End-To-End-Investigation-Vertice-Pharmaceutics">
 <img src="https://raw.githubusercontent.com/ravesnoopy/End-To-End-Investigation-Vertice-Pharmaceutics/main/assets/Banner.png">
 </a>
@@ -35,7 +35,7 @@ Incident-response case file with an evidence-based timeline, impact assessment, 
 Incident Response • DFIR • Timeline Analysis • Impact Assessment • Remediation
 </td>
 <td width="33%" valign="top" align="center">
-<h3>2nd Place</h3>
+<h3</h3>
 <a href="https://github.com/ravesnoopy/cloud-incident-response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/cloud-incident-response/main/images/image1.png">
 </a>
@@ -47,7 +47,7 @@ AWS incident response and detection labs with a ransomware case study.
 AWS Incident Response • CloudTrail & Config • IAM / S3 / RDS / EC2 (IMDS) • Detection Engineering
 </td>
 <td width="33%" valign="top" align="center">
-<h3>3rd Place</h3>
+<h3></h3>
 <a href="https://github.com/ravesnoopy/QuantiaPay-Incident-Response">
 <img src="https://raw.githubusercontent.com/ravesnoopy/QuantiaPay-Incident-Response/main/images/banner.png">
 </a>
